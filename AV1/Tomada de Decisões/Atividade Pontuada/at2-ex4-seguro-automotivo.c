@@ -32,3 +32,5 @@ int main(void){
         }
     }
     }
+    printf("O valor do seu prêmio é: %.2f", valPremio);
+    return 0;
