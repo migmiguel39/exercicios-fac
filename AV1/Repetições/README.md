@@ -2,7 +2,7 @@
 
 ## Arquivo - notas-da-turma.c
 ### Descrição
-O programa lê dados de vários alunos e calcula a média final de cada aluno. Ele continua processando até que seja digitada a matrícula 0 para encerrar.
+O programa, desenvolvido entre 22 a 25 de setembro, lê dados de vários alunos e calcula a média final de cada aluno. Ele continua processando até que seja digitada a matrícula 0 para encerrar.
 
 ### Objetivo
 Calcular a média individual do aluno, contar quantos alunos tiraram nota maior que 7 ou menor que 3, a média geral da turma e identificar a maior e a menor nota da turma.
