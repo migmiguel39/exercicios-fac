@@ -3,7 +3,7 @@
 ## Arquivo: calculo-de-descontos-em-passagens.c
 
 ### Descrição
-Programa em C que calcula o valor de passagens aéreas baseado em diferentes regras de desconto para clientes com ou sem cartão fidelidade.
+Programa em C desenvolvido no dia 11 de setembro de 2025 que calcula o valor de passagens aéreas baseado em diferentes regras de desconto para clientes com ou sem cartão fidelidade.
 
 ## Funções
 - Desconto padrão: Calcula desconto percentual com base no número de passagens inteiras compradas, sendo 10% de desconto até 2 passagens, 15% de 3 a 5 passagens e 20% a partir de 5.
